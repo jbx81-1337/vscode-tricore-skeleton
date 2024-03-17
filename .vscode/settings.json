@@ -1,0 +1,12 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_C_COMPILER_WORKS": "1",
+        "CMAKE_CXX_COMPILER_WORKS": "1",
+        "CMAKE_C_COMPILER": "/tricore-gcc/bin/tricore-elf-gcc",
+        "CMAKE_CXX_COMPILER": "/tricore-gcc/bin/tricore-elf-g++",
+        "CMAKE_ASM_COMPILER": "/tricore-gcc/bin/tricore-elf-gcc",
+    },
+    "cmake.environment": {
+    },
+    "editor.formatOnSave": false,
+}
